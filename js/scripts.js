@@ -1,5 +1,20 @@
 $(document).ready(function() {
+var click = 1;
+
+  $("button#addBtn").click(function(){
+    if(click <= 14){
+    click++;
+    $("#h" + click).show();
+    console.log(click);
+  }else {
+    $(".infoBtn").show();
+    $("button#addBtn").hide();}
+  });
+
   $("#formOne").submit(function(event) {
+
+
+
     var input = ["b", "i", "o"];
     finalInput = [];
 
@@ -27,8 +42,9 @@ $(document).ready(function() {
 });
 
 
-// | Tables        | Are           | Cool  |
+// | Behavior      | Input          | Output  |
 // | ------------- |:-------------:| -----:|
+
 // | col 3 is      | right-aligned | $1600 |
 // | col 2 is      | centered      |   $12 |
 // | zebra stripes | are neat      |    $1 |
