@@ -11,6 +11,15 @@ button{
   float: left;
   display: none;
 }
+#title1 {
+  display: none;
+}
+#title2 {
+  display: none;
+}
+#title3 {
+  display: none;
+}
 
 
 #h2, #h3, #h4, #h5, #h6, #h7, #h8, #h9, #h10, #h11, #h12, #h13, #h14, #h15 {

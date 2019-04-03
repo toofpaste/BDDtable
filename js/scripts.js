@@ -37,6 +37,9 @@ var click = 1;
       $("#bb" + (o + 1)).show();
     };
     $("#header1").show();
+    $("#title1").show();
+    $("#title2").show();
+    $("#title3").show();
     for(var r = 0; r < click; r++){
       $("#a" + (r + 1)).show();
     };
