@@ -22,10 +22,20 @@ _{Leave nothing to chance! You want it to be easy for potential users, employers
 | Behavior | Input | Output |
 | ------------- |:-------------:| -----:|
 | b1 | i1 | o1 |
-| b1 | i1 | o1 |
-| b1 | i1 | o1 |
-| b1 | i1 | o1 |
-| b1 | i1 | o1 | 
+| b2 | i2 | o2 |
+| b3 | i3 | o3 |
+| | | |
+| | | |
+| | | |
+| | | |
+| | | |
+| | | |
+| | | |
+| | | |
+| | | |
+| | | |
+| | | |
+| | | |
 
 
 
