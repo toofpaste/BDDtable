@@ -21,10 +21,21 @@ _{Leave nothing to chance! You want it to be easy for potential users, employers
 ## Specs
 | Behavior | Input | Output |
 | ------------- |:-------------:| -----:|
-| b1 | i1 | o1 |
-| b2 | i2 | o2 |
-| b3 | i3 | o3 |
-| b4 | i4 | o4 |
+| fsakfkasfkaskf askfaksfkasf aksfkasfk asfka sfkas faksf asfk aksfkakk | askfaksfkasfkas aksf | aksfkaskfkasfk | 
+| asfahsfluiasgnjsdgn sadgjsdgh sadglasdghas usdhgjsadg sadg | sfngajsfnaskf asfjk | hasfjahsf |
+| ashfajsfa | ahsfjasfhasofoaifaifas fa sfoaisf asiofhasfoa sahsf asfh asfaisfhasfk | haiosfhasif ashfoiahsfho |
+| aioshfiahofaoowoiwafiahsfhasf iahsf iasfh asf as f hasfihasfiak | haisfhiashf ahifiasfha | haisfha asfhiaihf |
+| ahsifhi | haisfhaisfjka | haisfhaisfkajsf |
+| asfhasfoasiofhas | ahsfohajjasf asfhajjajsjsjf s fjsjjsfjsjfs f . sfjsjfjjsfj asofhh | aksfkjakoasfj a hafso |
+| haskjfhasiufaif io | hafafhiaoifa f,mhfoiq ioafhafn | afioasfalsfhoiahsdf dshkfafohasfjasf ohlasfasfi oahsflk |
+| hasofihoaisf asfhalssofaosf hiasf | haosifhasf oasfhaosfiashkfahf f asflaslfkhasf slfashdfjasfooh | asf alsfi9ahfa f o sfhafsoafs loh |
+| asfasfhaopfo | hoaishfiasf hi | oh faoishf oasfh |
+| haosfhioaiosfha | ohaohfa sfi ahfajfhe | hasjfahefhas fj |
+| hajsfhauefhahsfjaf k | k fahifsashfahskf aief hafi aisuf ai | ajsfhaefiazvnskvjlfdhvnsfnxv |
+| n ,nv,znvnsdv svn,zcn,vshdv , | ,nvn,zhvsdhv hzvlzlhvz . ihzfvla fi | hflkafhi afhag jkslg . ahsf aufshasfi iash f |
+| ashifaihih ah . ahsfiasfihahisfahsf asfj hhsafhasfaosf ashf asfa sfaksfjajksfhasfu | haksfhafhfahjfhaf ajf ajfkasfjahsf asf | hja,fhnzmxvnsdjv nksjnaufhknaksf |
+| hasfkjhaifnajsnfiuanfanvashv | asfahofheofhhahihsfjafhowefkjan fahsfjka sh h ol | ahsfkjahf uohwoi oiashf |
+| iha afo asfjknsdfh oef akjoi | huafshaoi efnasfn aoiwfawfho | ohasfkhfwefoln asfo ihoih |
 
 
 
