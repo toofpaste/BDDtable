@@ -36,6 +36,10 @@ var click = 1;
     for(var o = 0; o < click; o++){
       $("#bb" + (o + 1)).show();
     };
+    $("#header1").show();
+    for(var r = 0; r < click; r++){
+      $("#a" + (r + 1)).show();
+    };
     event.preventDefault();
   });
 });

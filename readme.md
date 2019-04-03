@@ -24,18 +24,8 @@ _{Leave nothing to chance! You want it to be easy for potential users, employers
 | b1 | i1 | o1 |
 | b2 | i2 | o2 |
 | b3 | i3 | o3 |
-| | | |
-| | | |
-| | | |
-| | | |
-| | | |
-| | | |
-| | | |
-| | | |
-| | | |
-| | | |
-| | | |
-| | | |
+| b4 | i4 | o4 |
+
 
 
 
