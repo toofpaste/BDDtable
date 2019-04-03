@@ -5,7 +5,6 @@ var click = 1;
     if(click <= 14){
     click++;
     $("#h" + click).show();
-    console.log(click);
   }else {
     $(".infoBtn").show();
     $("button#addBtn").hide();}
@@ -19,24 +18,24 @@ var click = 1;
     finalInput = [];
 
     for(var x = 0; x < 3; x++){
-      for (var s = 1; s < 6; s++){
+      for (var s = 1; s <= click; s++){
       var tempInput = $("input#" + input[x] + s).val();
       finalInput.push(tempInput);
       };
     };
-      console.log(finalInput);
-      var count = 0;
 
-
-
+    var count = 0;
     for(var i = 0; i < 3; i++){
-      for (var c = 0; c < 5; c++){
-      $("." + input[i] + (c+1)).append(finalInput[count]);
+      for (var c = 0; c < click; c++){
+      $("." + input[i] + (c+1)).text(finalInput[count]);
       count++;
       };
     };
-
     $("#output").show();
+    $("#bb0").show();
+    for(var o = 0; o < click; o++){
+      $("#bb" + (o + 1)).show();
+    };
     event.preventDefault();
   });
 });
